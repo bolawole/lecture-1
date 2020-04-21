@@ -1,0 +1,145 @@
+body{
+background-image: url(desk-computer-imac-clean-7055.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+
+}
+img{
+
+}
+
+h1,h2{
+  text-align: center;
+  margin: 50px;
+  padding: 30px;
+  color: white;
+}
+
+p{
+  margin: 30px;
+  padding: 20px;
+  color: #31362f;
+  text-align: center;
+  font-weight: bold;
+}
+.nav-link{
+  font-weight: bold;
+  color: white;
+}
+/*.bg-dark{
+  opacity: 0.5;
+}*/
+#btn1{
+text-align: center;
+margin-bottom: 30px;
+
+
+
+}
+#btn1 a.btn-info{
+  background: #dbc1bf;
+  font-weight: bold;
+  color: black;
+  border: white;
+}
+#btn1 a:hover{
+  background: orange;
+}
+footer{
+  text-align: center;
+  background: darkgrey;
+  height: 70px;
+  width: auto;
+  color: white;
+  font-weight: bold;
+}
+footer a:hover{
+  text-decoration: none;
+}
+.col{
+  margin: 50px 20px;
+}
+ .bg{
+   background:rgba(54, 58, 64,0.2);
+   height: 550px;
+   width:auto;
+
+ }
+
+ .bga{
+   background:rgba(23, 22, 21,0.2);
+   height: 550px;
+   width:auto;
+
+ }
+ .bgc{
+
+   background:rgba(54, 58, 64,0.2);
+   height: 40px;
+   width:auto;
+
+ }
+ .col-sm-4{
+   padding-top: 150px;
+
+ }
+ .col-sm-8{
+   padding-top: 30px;
+
+ }
+
+ .row{
+   padding:40px;
+ }
+
+h1.feedback-ss{
+
+  text-align: center;
+  font-family: arial sans-serif;
+  color: #e6d3cc;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#studio{
+  margin: 30px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 50px;
+  color: #2b201b;
+}
+
+input[type=text] , textarea{
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+div.btn-about{
+  text-align: center;
+
+}
+
+.btn-about a.btn{
+  margin: 20px;
+  width: 150px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: #8f786e;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+a.btn-about1,a.btn-about2{
+background: transparent;
+border: 1px solid #e36c34;
+}
+
+a.btn-about2:hover,a.btn-about1:hover{
+  background-color: #e36c34;
+}
